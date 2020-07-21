@@ -13,9 +13,9 @@
 ### Bash :
 `./modifiedlist.sh [ Directory ] [ Days ]`
 
-##Example 
+## Example 
 
 ./modifiedlist.sh /home 3
 
 ## Links :
-awaiskhaninfsec.wordpress.com
+- awaiskhaninfsec.wordpress.com
