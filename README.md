@@ -15,7 +15,9 @@
 
 ## Example 
 
-./modifiedlist.sh /home 3
+`./modifiedlist.sh /home 3`  
+
+`python3 modifiedlist.py /home 3`
 
 ## Links :
-- awaiskhaninfsec.wordpress.com
+- awaiskhaninfosec.wordpress.com
