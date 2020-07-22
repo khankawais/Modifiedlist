@@ -20,4 +20,4 @@
 `python3 modifiedlist.py /home 3`
 
 ## Links :
-- awaiskhaninfosec.wordpress.com
+- awaiskhaninfosec.ml
